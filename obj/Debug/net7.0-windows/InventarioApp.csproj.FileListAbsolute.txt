@@ -1,0 +1,17 @@
+E:\InventarioApp\bin\Debug\net7.0-windows\InventarioApp.exe
+E:\InventarioApp\bin\Debug\net7.0-windows\InventarioApp.deps.json
+E:\InventarioApp\bin\Debug\net7.0-windows\InventarioApp.runtimeconfig.json
+E:\InventarioApp\bin\Debug\net7.0-windows\InventarioApp.dll
+E:\InventarioApp\bin\Debug\net7.0-windows\InventarioApp.pdb
+E:\InventarioApp\obj\Debug\net7.0-windows\InventarioApp.csproj.AssemblyReference.cache
+E:\InventarioApp\obj\Debug\net7.0-windows\InventarioApp.Form1.resources
+E:\InventarioApp\obj\Debug\net7.0-windows\InventarioApp.csproj.GenerateResource.cache
+E:\InventarioApp\obj\Debug\net7.0-windows\InventarioApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\InventarioApp\obj\Debug\net7.0-windows\InventarioApp.AssemblyInfoInputs.cache
+E:\InventarioApp\obj\Debug\net7.0-windows\InventarioApp.AssemblyInfo.cs
+E:\InventarioApp\obj\Debug\net7.0-windows\InventarioApp.csproj.CoreCompileInputs.cache
+E:\InventarioApp\obj\Debug\net7.0-windows\InventarioApp.dll
+E:\InventarioApp\obj\Debug\net7.0-windows\refint\InventarioApp.dll
+E:\InventarioApp\obj\Debug\net7.0-windows\InventarioApp.pdb
+E:\InventarioApp\obj\Debug\net7.0-windows\InventarioApp.genruntimeconfig.cache
+E:\InventarioApp\obj\Debug\net7.0-windows\ref\InventarioApp.dll

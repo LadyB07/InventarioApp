@@ -1,0 +1,17 @@
+REPORTE DE PRODUCTOS
+---------------------
+Id: 1
+Nombre: Laptop
+Precio: 600
+Cantidad: 3
+---------------------
+Id: 2
+Nombre: Mouse
+Precio: 300
+Cantidad: 2
+---------------------
+Id: 3
+Nombre: Teclado
+Precio: 800
+Cantidad: 5
+---------------------
